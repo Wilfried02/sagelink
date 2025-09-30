@@ -1,15 +1,15 @@
 {
   "version": "0.1.0",
   "notes": "...",
-  "pub_date": "",
+  "pub_date": "2025-09-30T12:00:00Z",
   "platforms": {
     "linux-x86_64": {
       "signature": "",
       "url": ""
     },
     "windows-x86_64": {
-      "signature": "",
-      "url": ""
+      "signature": "https://github.com/Wilfried02/sagelink/blob/9dcf4d020c46d61dbbe1a08678cc9f9fd78df171/releases/v1/IT%20SOLUTION_0.1.0_x64-setup.exe.sig",
+      "url": "https://github.com/Wilfried02/sagelink/blob/9dcf4d020c46d61dbbe1a08678cc9f9fd78df171/releases/v1/IT%20SOLUTION_0.1.0_x64-setup.exe"
     },
     "darwin-x86_64": {
       "signature": "",
