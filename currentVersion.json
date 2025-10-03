@@ -8,8 +8,8 @@
       "url": ""
     },
     "windows-x86_64": {
-      "signature": "https://github.com/Wilfried02/sagelink/blob/9dcf4d020c46d61dbbe1a08678cc9f9fd78df171/releases/v1/IT%20SOLUTION_0.1.0_x64-setup.exe.sig",
-      "url": "https://github.com/Wilfried02/sagelink/blob/9dcf4d020c46d61dbbe1a08678cc9f9fd78df171/releases/v1/IT%20SOLUTION_0.1.0_x64-setup.exe"
+      "signature": "https://raw.githubusercontent.com/Wilfried02/sagelink/refs/heads/main/releases/v1/IT%20SOLUTION_0.1.0_x64-setup.exe.sig",
+      "url": "https://raw.githubusercontent.com/Wilfried02/sagelink/refs/heads/main/releases/v1/IT%20SOLUTION_0.1.0_x64-setup.exe"
     },
     "darwin-x86_64": {
       "signature": "",
